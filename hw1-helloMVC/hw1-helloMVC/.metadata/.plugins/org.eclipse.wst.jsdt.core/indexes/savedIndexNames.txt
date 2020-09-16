@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\kkoma\OneDrive\πŸ≈¡ »≠∏È\hw1-helloMVC\hw1-helloMVC\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3367204586.index
+985413812.index
+2039846875.index
+1431056071.index
+2382485809.index
+2652868513.index
