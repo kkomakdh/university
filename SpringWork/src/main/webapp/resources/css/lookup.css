@@ -1,0 +1,115 @@
+@charset "UTF-8";
+
+.head {
+	width: 100%;
+}
+
+.span {
+	height: 80px;
+	width: 600px;
+	border: 2px solid #2045c6;
+	padding: 20px;
+	margin: 20px;
+	font-weight: bold;
+	padding: 10px;
+	font-size: 150%;
+	background: #0e78d8;
+	color: white;
+}
+
+.div2 {
+	height: 200px;
+	width: 600px;
+	border: 2px solid #2045c6;
+	padding: 20px;
+	margin: 20px;
+	line-height: 3;
+	background: #2084c6;
+}
+
+.menu {
+	color: white;
+}
+
+.p {
+	width: 100px;
+	padding: 10px;
+}
+
+.table1 {
+	border-collapse: separate;
+	border-spacing: 1px;
+	text-align: center;
+	line-height: 1.5;
+	margin: 20px 10px;
+}
+
+.table1 th {
+	width: 150px;
+	padding: 10px;
+	font-weight: bold;
+	vertical-align: top;
+	color: #ffffff;
+	background: #0e82d8;
+}
+
+.tbody {
+	width: 150px;
+	padding: 10px;
+	vertical-align: top;
+	border-bottom: 1px solid #ccc;
+	background: #eee;
+}
+
+.spn {
+	font-weight: bold;
+	padding: 10px;
+	font-size: 150%;
+}
+
+.btn {
+	border-top-right-radius: 5px;
+	border-top-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+	border-bottom-left-radius: 5px;
+}
+
+.btn:hover {
+	background-color: #1d77c9;
+}
+
+.header {
+	padding: 20px;
+}
+
+.label {
+	width: 100px;
+	padding: 10px;
+	font-weight: bold;
+	vertical-align: top;
+	border-bottom: 1px solid #ccc;
+	background: #0e82d8;
+	color: white;
+}
+
+.table2 {
+	border-collapse: separate;
+	border-spacing: 1px;
+	text-align: 1px;
+	line-height: 1.5;
+	border-top: 1px solid #ccc;
+	margin: 20px 10px;
+}
+
+.table2 td {
+	width: 150px;
+	padding: 10px;
+	vertical-align: top;
+	border-bottom: 1px solid #ccc;
+}
+
+.error {
+	font-size: small;
+	color: red;
+	margin-left: 10px;
+}
